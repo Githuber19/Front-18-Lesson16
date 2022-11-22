@@ -45,7 +45,7 @@
   .rectangle {
     width: 200px;
     height: 100px;
-    background: whitesmoke;
+    background: black;
   }
   .circle:hover {
     opacity: 30%;
