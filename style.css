@@ -12,12 +12,12 @@
     color: blueviolet;
   }
   
-  .figurebi {
+  .Side-Box {
     display: flex;
     justify-content: center;
     margin-top: 10%;
   }
-  .figurebi div {
+  .Side-Box div {
     margin-left: 20px;
   }
   
